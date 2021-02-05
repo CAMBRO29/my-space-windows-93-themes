@@ -5,7 +5,7 @@
 }
 
 .logo::after{
-    content:"𝔤𝔬𝔱𝔥𝔰𝔭𝔞𝔠𝔢.𝔠𝔬𝔪";
+    content: Garfield.Gov
     text-shadow: 2px 2px 4px red;
     color: white;
     line-height: 10px;
